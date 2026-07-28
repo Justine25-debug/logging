@@ -34,5 +34,13 @@
     "records_count": 54,
     "date_from": "2026-03-09",
     "date_to": "2026-08-30"
+  },
+  {
+    "timestamp": "2026-07-28T09:00:03.415Z",
+    "employee_id": "n016386",
+    "employee_code": "750",
+    "action": "time_in_out",
+    "status": "success",
+    "response": "<script>swal('Successful Afternoon Out, GodBless and Take Care.','','success').then(function() {document.getElementById('EMPLOYEEID').focus();})</script>"
   }
 ]
