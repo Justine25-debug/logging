@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2026-07-28T08:43:22.216Z",
+    "employee_id": "n016386",
+    "employee_code": "750",
+    "action": "test_log",
+    "status": "success",
+    "message": "Test log entry from eDTR script",
+    "test": true
+  }
+]
