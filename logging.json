@@ -69,5 +69,14 @@
     "action": "script_start",
     "status": "success",
     "message": "Script initialized - schedules set (fetch at 5:05 PM, clear at 5:30 PM)"
+  },
+  {
+    "timestamp": "2026-07-29T04:16:35.021Z",
+    "employee_id": "n016386",
+    "employee_code": "750",
+    "script_enabled": true,
+    "action": "script_start",
+    "status": "success",
+    "message": "Script initialized - schedules set (fetch at 5:05 PM, clear at 5:30 PM)"
   }
 ]
