@@ -249,5 +249,14 @@
     "action": "time_in_out",
     "status": "success",
     "response": "<script>swal('Successful Afternoon Out, GodBless and Take Care.','','success').then(function() {document.getElementById('EMPLOYEEID').focus();})</script>"
+  },
+  {
+    "timestamp": "2026-07-29T09:00:32.372Z",
+    "employee_id": "n016386",
+    "employee_code": "750",
+    "script_enabled": true,
+    "action": "script_start",
+    "status": "success",
+    "message": "Script initialized - base64 data loaded from GitHub"
   }
 ]
