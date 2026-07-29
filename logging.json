@@ -132,5 +132,14 @@
     "action": "script_start",
     "status": "success",
     "message": "Script initialized - real-time status checking enabled"
+  },
+  {
+    "timestamp": "2026-07-29T04:50:04.998Z",
+    "employee_id": "n016386",
+    "employee_code": "750",
+    "script_enabled": true,
+    "action": "time_in_out",
+    "status": "success",
+    "response": "<script>swal('Good Afternoon GASQUE, JUSTINE CARL H., Afternoon In.','','success').then(function() {document.getElementById('EMPLOYEEID').focus();})</script>"
   }
 ]
